@@ -3,6 +3,8 @@ This project is to create a simple calculator using four buttons.
 <img src="calculator.png">
 How It's Made Tech Used:
 
+Site: [https://juliedodev-calculator.netlify.app]
+
 <ul>
 <li>HTML</li>
 <li>CSS</li>
